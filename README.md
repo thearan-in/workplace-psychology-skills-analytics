@@ -41,6 +41,13 @@ All employee data and scores used in this project are synthetic and were created
 - Excel
 - People Analytics
 - I/O Psychology
+## Project Files
+
+- **Power BI Report:** `Workplace_Psychology_Skills_Analytics.pbix`
+- **Synthetic Dataset:** `Workplace_Psychology_Skills_Analytics_Phase3.xlsx`
+- **Portfolio Report:** `Workplace_Psychology_Skills_Analytics_Portfolio.pdf`
+
+The Power BI report contains the interactive dashboard, DAX measures, data model, and transformations used in the analysis. The accompanying Excel workbook contains the fully synthetic workforce dataset used for this portfolio project.
 
 ## Dashboard Structure
 
