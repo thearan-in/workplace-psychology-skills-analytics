@@ -46,15 +46,19 @@ All employee data and scores used in this project are synthetic and were created
 
 ### 1. Executive Workforce Overview
 Provides an overview of workforce composition, employee engagement, intention to stay, job satisfaction, and key workforce indicators.
+![Executive Workforce Overview](01_Executive_Workforce_Overview.png)
 
 ### 2. Psychology at Work
 Explores psychological safety, job satisfaction, work motivation, belonging, and work stress across the workforce.
+![Psychology at Work](02_Psychology_at_Work.png)
 
 ### 3. Workplace & Skills
 Examines manager support, recognition, work-life balance, skill-role fit, skill utilisation, and learning opportunities.
+![Workplace and Skills](03_Workplace_and_Skills.png)
 
 ### 4. Engagement & Retention Insights
 Explores associations between selected psychological, workplace, and skill-related factors and employee engagement and intention to stay.
+![Engagement and Retention Insights](04_Engagement_and_Retention_Insights.png)
 
 ## Key Insights
 
